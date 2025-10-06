@@ -1,5 +1,6 @@
 ---
-title: "Workshop code"
+New Title: "Workshop Test"
+
 output:
   pdf_document: default
   html_document: default
